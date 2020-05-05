@@ -5,6 +5,6 @@ use aug_people_data.py
 1. OpenCV 3.x
 2. Numpy
 3. Matplotlib
-4.Imgaug 
+4. Imgaug 
 
 
